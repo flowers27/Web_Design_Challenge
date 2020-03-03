@@ -17,6 +17,12 @@ body {
     font-size: 40px;
   }
   
+  p { color: black;
+  }
+
+  figcaption {
+      color: black;
+  }
   /* Giving our navbar some padding and a background color */
   .navbar {
     padding: 10px;
