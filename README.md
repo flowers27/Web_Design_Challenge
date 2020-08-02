@@ -1,6 +1,6 @@
-In this project I had to build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+IThe purpose of this project was to analyze how weather changes as you get closer to the equator. To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a daaset on over 500 cities.
 
-Using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
+After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs. latitude. Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.
 
 Trilogy Education Services © 2019. All Rights Reserved.
 
